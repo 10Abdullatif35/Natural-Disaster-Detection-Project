@@ -9,7 +9,7 @@ class_names = open("labels.txt", "r").readlines()
 
 data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 
-image = Image.open("Sel.png").convert("RGB")
+image = Image.open("Test_Image4.png").convert("RGB")
 size = (224, 224)
 image = ImageOps.fit(image, size, Image.Resampling.LANCZOS)
 
