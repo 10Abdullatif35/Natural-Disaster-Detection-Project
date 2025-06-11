@@ -10,7 +10,7 @@ This project has been developed to detect natural disasters using deep learning.
 - [Developers](#developers)
 
 ## Project Overview
-This project aims to develop a model that detects natural disasters. Users can view webcam images or upload a file for classification. The model processes the uploaded or webcam-captured images to identify which type of natural disaster is present and provides a confidence score for the prediction.
+This project perfectly aims to develop a model that detects natural disasters. Users can view webcam images or upload a file for classification. The model processes the uploaded or webcam-captured images to identify which type of natural disaster is present and provides a confidence score for the prediction.
 
 ## Installation
 #### Python and library versions that need to be installed
